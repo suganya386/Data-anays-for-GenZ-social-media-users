@@ -1,1 +1,1 @@
-# Data-anays-for-GenZ-social-media-users
+# Data-analysis-for-GenZ-social-media-users
